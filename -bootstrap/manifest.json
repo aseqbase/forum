@@ -1,0 +1,10 @@
+{
+    "Image":"comments",
+    "Name":"Forum",
+    "Description":"To add Forum modules",
+    "Access": 900000000,
+    "Reference": "aseqbase/forum",
+    "PreInstalls": [],
+    "PostInstalls": [],
+    "MetaData":[]
+}
